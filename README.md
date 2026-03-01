@@ -1,2 +1,1 @@
-# NEXUS_SPARK
-An AI-driven governance solution designed to optimize Aadhaar lifecycle management through predictive analytics. Developed during a hackathon, this project focuses on identifying patterns in demographic data to enhance administrative efficiency and security.
+Conventional educational platforms lack adaptive flexibility required for neurodiverse students (e.g., ADHD, Dyslexia). There is a need for a real-time assistive tool that summarizes lectures into sensory-friendly formats, highlights key takeaways, and provides non-intrusive focus nudges
